@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, soy Jesús Moncho!</h1>
-<p align="left"> <img src="images/no hay nada dificil, solo desconocimiento copia.png" alt="jesus086" /> </p>
+<p align="left"> <img src="images/No hay nada difícil, solo desconocimiento.png" alt="jesus086" /> </p>
 <h3 align="center">no hay nada dificil, solo desconocimiento.</h3>
 
 Soy un entusiasta de los datos 📊 y tengo dos masters relacionados con el big data y ciencia de datos en <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/"> Assembler Institute of Technology</a> y otro en <img src="images/IEAD.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://iead.es/">iead instituto europeo de alta direción</a> 
