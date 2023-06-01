@@ -1,6 +1,6 @@
 # ¡Hola, soy Jesús!
 
-Soy un entusiasta de los datos 📊 y tengo un máster completo en ciencia de datos en <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
+Soy un entusiasta de los datos 📊 y tengo un máster en ciencia de datos en <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a>
 
 ## 💻 tecnología utilizada
 
