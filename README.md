@@ -79,7 +79,7 @@ Soy un entusiasta de los datos 📊 y tengo dos masters relacionados con el big 
 
 ## 😇 Sobre mi
 
-Nacido en Alemania y viviendo en España desde pequeño, completar este master ha sido una experiencia de vida enriquecedora. Me ha permitido salir de mi zona de confort y descubrir mis propias capacidades. Aquí tienes algunas de las cosas que disfruto en mi tiempo libre:
+Nacido en Alemania y viviendo en España desde pequeño, el desafio de completar este master ha sido una experiencia de vida enriquecedora. Me ha permitido salir de mi zona de confort y descubrir mis propias capacidades. Aquí tienes algunas de las cosas que disfruto en mi tiempo libre:
 
 * 🚗 Como gran aficionado a los coches, me apasiona aprender sobre ellos, seguir las últimas noticias y eventos relacionados con la industria automotriz.
 * 💪 Además, me gusta mantenerme en forma practicando calistenia, que es un tipo de ejercicio físico que utiliza el peso corporal como resistencia.
