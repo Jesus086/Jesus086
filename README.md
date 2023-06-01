@@ -81,11 +81,11 @@ Soy un entusiasta de los datos 📊 y tengo un máster en ciencia de datos en <i
 
 Nacido en Alemania y viviendo en España desde pequeño, completar este master ha sido una experiencia de vida enriquecedora. Me ha permitido salir de mi zona de confort y descubrir mis propias capacidades. Aquí tienes algunas de las cosas que disfruto en mi tiempo libre:
 
-🚗 Como gran aficionado a los coches, me apasiona aprender sobre ellos, seguir las últimas noticias y eventos relacionados con la industria automotriz.
-💪 Además, me gusta mantenerme en forma practicando calistenia, que es un tipo de ejercicio físico que utiliza el peso corporal como resistencia.
-🎶 La música es una parte importante de mi vida, y disfruto explorando diferentes géneros y artistas. 
-🌳 Me encanta hacer escapadas para disfrutar de su belleza y tranquilidad. Ya sea explorando senderos, o simplemente relajándome al aire libre, siempre encuentro paz en la naturaleza.
-🏋️ Me gusta enfrentarme a nuevos desafíos y superar mis límites. La sensación de lograr algo que parecía imposible es increíblemente gratificante y me impulsa a seguir creciendo y mejorando.
+. 🚗 Como gran aficionado a los coches, me apasiona aprender sobre ellos, seguir las últimas noticias y eventos relacionados con la industria automotriz.
+. 💪 Además, me gusta mantenerme en forma practicando calistenia, que es un tipo de ejercicio físico que utiliza el peso corporal como resistencia.
+. 🎶 La música es una parte importante de mi vida, y disfruto explorando diferentes géneros y artistas. 
+. 🌳 Me encanta hacer escapadas para disfrutar de su belleza y tranquilidad. Ya sea explorando senderos, o simplemente relajándome al aire libre, siempre encuentro paz en la naturaleza.
+. 🏋️ Me gusta enfrentarme a nuevos desafíos y superar mis límites. La sensación de lograr algo que parecía imposible es increíblemente gratificante y me impulsa a seguir creciendo y mejorando.
 Estas actividades en mi tiempo libre me permiten encontrar un equilibrio entre el disfrute personal, el cuidado físico y mental, así como la exploración de nuevas pasiones y desafíos.
 
 
