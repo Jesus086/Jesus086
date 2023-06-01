@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesús Moncho</h1>
-<h3 align="center">A apassionate data analyst & data science form Móstoles (Madrid, Spain)</h3>
+<h3 align="center">A apassionate data analyst & data science from Móstoles (Madrid, Spain)</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jesus086?tab=repositories](https://github.com/Jesus086?tab=repositories)
 
 - 📫 How to reach me **jesus.moncho@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/estee/OneDrive/Desktop/certificados%20master/Jes%C3%BAs%20Moncho%20CV.pdf](file:///C:/Users/estee/OneDrive/Desktop/certificados%20master/Jes%C3%BAs%20Moncho%20CV.pdf)
+- 📄 Know about my experiences (file:///C:/Users/estee/OneDrive/Desktop/certificados%20master/Jes%C3%BAs%20Moncho%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
