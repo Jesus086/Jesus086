@@ -1,6 +1,6 @@
 # ¡Hola, soy Jesús!
 
-Soy un entusiasta de los datos 📊 y tengo dos masters relacionados con el big data y ciencia de datos en <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/">Assembler Institute of Technology</a> y otro en <img src="images/IEAD.PNG" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://iead.es/">Assembler Institute of Technology</a> 
+Soy un entusiasta de los datos 📊 y tengo dos masters relacionados con el big data y ciencia de datos en <img src="images/assembler.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://assemblerinstitute.com/"> Assembler Institute of Technology</a> y otro en <img src="images/IEAD.png" style="vertical-align:right; margin-right: 6px; display: inline-block; width: 20px; height: 20px;"> <a href="https://iead.es/">Assembler Institute of Technology</a> 
 
 ## 💻 tecnologías utilizadas
 
